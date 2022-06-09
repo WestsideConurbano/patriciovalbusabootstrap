@@ -1,0 +1,13 @@
+.d-block {max-height: 640px;}
+.iconos a
+{text-decoration: none;
+color: white;
+margin: 10px;
+font-size: 22px;}
+.iconos a i:hover { color: aqua;
+transform:scale(1.1);
+transition: ease-in-out .1s;}
+
+
+/*animaciones*/
+
