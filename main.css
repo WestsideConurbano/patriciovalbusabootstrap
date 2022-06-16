@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.iconos a {
+  text-decoration: none;
+  color: white;
+  margin: 10px;
+  font-size: 22px;
+}
+.iconos a__s a i:hover {
+  color: aqua;
+  transform: scale(1.1);
+  transition: ease-in-out 0.1s;
+}
+
+.d-block {
+  max-height: 640px;
+}/*# sourceMappingURL=main.css.map */
